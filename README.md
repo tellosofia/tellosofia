@@ -8,8 +8,11 @@ My name is Sofía Tello. I recently completed a 680-hour bootcamp in 🔥 Data S
 - 📫 Feel free to contact me; I'm always happy to chat. 😄
 
 ## Tech Skills
-- **Programming:** Python, SQL
-- **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Data Engineering:** APIs, Web Scraping, AWS
-- **Other Tools:** Jupyter, Pandas, Google Colab
+- **Programming Languages**: Python
+- **Database Management**: SQL, MySQL, PostgreSQL
+- **Data Visualization**: Matplotlib, Seaborn, Tableau, Streamlit
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Data Engineering**: APIs, Web Scraping, AWS
+- **Data Analysis**: Pandas, NumPy
+- **Development Environments**: Jupyter, Google Colab
+
