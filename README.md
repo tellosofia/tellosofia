@@ -1,18 +1,18 @@
 # Hi there 👋 Welcome to my profile!
 
 ## About Me
-My name is Sofía Tello. I recently completed a 680-hour bootcamp in 🔥 Data Science 🔥. Here you'll find the projects I worked on during the bootcamp and more!
-- 🔭 I’m currently looking for a job that leverages my new data science skills.
-- 🌱 Apart from data science, I'm very passionate about sustainability. I hold two master's degrees related to renewable energies, sustainable development, and eco-social transition.
-- 👓 My bachelor's degree is in Industrial Engineering, and I have work experience as a Project Engineer in the LED Lighting Industry.
-- 📫 Feel free to contact me; I'm always happy to chat. 😄
+
+## About Me
+- I'm Sofía Tello, currently pursuing a Dual Master's in **Software Development and Digital Business** at Universidade da Coruña and Imatia.  
+- I have a strong background in **Data Science** (680h bootcamp), plus experience as an Industrial Engineer in the LED industry.  
+- Passionate about **technology, data, and digital innovation**, with additional expertise in sustainability and renewable energies.
 
 ## Tech Skills
-- **Programming Languages**: Python
-- **Database Management**: SQL, MySQL, PostgreSQL
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Tableau, Streamlit
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Data Engineering**: APIs, Web Scraping, AWS
-- **Data Analysis**: Pandas, NumPy
-- **Development Environments**: Jupyter, Google Colab
+- **Programming:** Python | Java | JavaScript | HTML | CSS  
+- **Databases:** SQL | MySQL | PostgreSQL  
+- **Data Analysis & Visualization:** Pandas | NumPy | Power BI | Tableau | Matplotlib | Seaborn | Streamlit  
+- **Machine Learning:** Scikit-learn | TensorFlow  
+- **Data Engineering:** APIs | Web Scraping | AWS  
+- **Development Tools & IDEs:** Jupyter | Google Colab | Git | GitHub | **DBeaver** | **IntelliJ IDEA** | **Visual Studio Code**  
+- **Agile & Project Management:** Scrum | Kanban | Jira | Trello  
 
