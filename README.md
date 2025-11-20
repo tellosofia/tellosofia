@@ -1,8 +1,6 @@
 # Hi there 👋 Welcome to my profile!
 
 ## About Me
-
-## About Me
 - I'm Sofía Tello, currently pursuing a Dual Master's in **Software Development and Digital Business** at Universidade da Coruña and Imatia.  
 - I have a strong background in **Data Science** (680h bootcamp), plus experience as an Industrial Engineer in the LED industry.  
 - Passionate about **technology, data, and digital innovation**, with additional expertise in sustainability and renewable energies.
